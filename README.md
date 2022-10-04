@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with docker tech.
 - 💬 Ask me about Python or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: .
+- ⚡ Fun fact:-
 
 
 ## 🌐 Social-Media
